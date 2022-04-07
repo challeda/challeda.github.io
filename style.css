@@ -1,0 +1,32 @@
+body {
+  min-height: auto;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(220, 204, 250);
+}
+#product {
+  background-color: rgb(220, 204, 250);
+}
+section {
+  padding-top: 5rem;
+}
+.card:hover {
+  transition: 1s;
+}
+footer a {
+  text-decoration: none;
+}
+
+/* form.sending .btn-loading {
+  display: inline-block;
+}
+form.sending .btn[type="submit"] {
+  display: none;
+}
+form:not(.sending) .btn-loading {
+  display: none;
+}
+form:not(.sending) .btn[type="submit"] {
+  display: inline-block;
+} */
